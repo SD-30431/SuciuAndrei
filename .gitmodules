@@ -1,0 +1,6 @@
+[submodule "SuciuAndrei/SD_Project"]
+	path = SuciuAndrei/SD_Project
+	url = https://github.com/Sams200/macro-buddy-v2
+[submodule "SuciuAndrei/SD_Project_UI"]
+	path = SuciuAndrei/SD_Project_UI
+	url = https://github.com/Sams200/macro-buddy-ui
